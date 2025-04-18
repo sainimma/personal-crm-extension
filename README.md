@@ -15,3 +15,7 @@ Click Personal CRM from your extensions and then sign up with email/password and
 **Using it:**
 Whenever you are on a linkedin profile page that you want to save, click personal CRM -> add notes if you would like -> Hit save 
 Access your database here - https://search.app/GkWNELFmpgNSCTou8
+
+
+Screenshot 1 - Adding Personal CRM chrome extension
+![screenshot 1 - download](https://github.com/user-attachments/assets/59ec2fc5-898b-4e07-8e35-e39168b1eb83)

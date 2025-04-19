@@ -10,12 +10,15 @@ You can add Personal CRM as a Chrome extension and save LinkedIn profiles real t
 - Unzip the folder and store it in a location where it will not be deleted.
 - Go to Google Chrome -> Manage Extensions -> Click developer mode (top right)
 - Click Load Unpacked and select the unzipped folder
+![screenshot 1 - download](https://github.com/user-attachments/assets/59ec2fc5-898b-4e07-8e35-e39168b1eb83)
 - VOILA you are all set
 
 **Creating an account:**
 Click Personal CRM from your extensions and then sign up with email/password. A link will be sent to your email to verify your account. 
 
 _Note:_ Check your spam folder if the verification email isn't visible in your inbox.
+
+![image](https://github.com/user-attachments/assets/413ab3e2-37a5-4d33-90f4-b142a57f2d55)
 
 **Using it:**
 
@@ -25,16 +28,8 @@ Whenever you are on a linkedin profile page that you want to save, click persona
 -> add notes if you would like 
 -> Hit save
 
-Access PersonalCRM's website here - [PersonalCRM](https://personal-crm-seven.vercel.app/)
-
-**Screenshots**
-
-Adding Personal CRM chrome extension
-![screenshot 1 - download](https://github.com/user-attachments/assets/59ec2fc5-898b-4e07-8e35-e39168b1eb83)
-
-Signup page
-![image](https://github.com/user-attachments/assets/413ab3e2-37a5-4d33-90f4-b142a57f2d55)
-
-Adding a linkedin profile 
 ![image](https://github.com/user-attachments/assets/7b3b5907-dfd9-40f8-b5c1-09410eba971e)
 ![image](https://github.com/user-attachments/assets/78198158-b1dd-4626-aa81-69ba51ef5f22)
+
+Access PersonalCRM's website here - [PersonalCRM](https://personal-crm-seven.vercel.app/)
+

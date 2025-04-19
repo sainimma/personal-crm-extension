@@ -27,6 +27,7 @@ Whenever you are on a linkedin profile page that you want to save, click persona
 
 Access PersonalCRM's website here - [PersonalCRM](https://personal-crm-seven.vercel.app/)
 
+**Screenshots**
 
 Adding Personal CRM chrome extension
 ![screenshot 1 - download](https://github.com/user-attachments/assets/59ec2fc5-898b-4e07-8e35-e39168b1eb83)

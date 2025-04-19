@@ -32,4 +32,5 @@ Whenever you are on a linkedin profile page that you want to save, click persona
 ![image](https://github.com/user-attachments/assets/78198158-b1dd-4626-aa81-69ba51ef5f22)
 
 Access PersonalCRM's website here - [PersonalCRM](https://personal-crm-seven.vercel.app/)
+Special thanks to you for using this from our team - Isabella Anastanoff, Sai Nimmagada, Adhitya Raghavan :)
 
